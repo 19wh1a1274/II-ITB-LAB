@@ -70,6 +70,6 @@ for(i=0;i<n;i++)
  
 }
 
-[First Come First Serve.txt](https://github.com/19wh1a1274/II-ITB-LAB/files/6625638/First.Come.First.Serve.txt)
+
 
 
