@@ -12,7 +12,7 @@ public class QuickSort {
 
         QuickSort obj = new QuickSort();
 
-        String stringsList[] = {"Radha", "Vivek", "Vikram", "Akhila", "Rama", "Banni", "Deepthi"};
+        String stringsList[] = {"Rishi", "Varun", "Vinay", "Akhila", "Ram", "Bunny", "mani"};
 
         obj.sort(stringsList);
 
