@@ -11,4 +11,4 @@ INSERT INTO Passengers  VALUES(1234, 'Revathi', 33, 'M', 9094445667, 'Hyderabad'
 INSERT INTO Passengers VALUES(2345, 'Sony', 28, 'F',9933336667, 'Hyderabad', 252, 20);
 INSERT INTO Passengers VALUES(3456, 'Akki', 21, 'M', 9988337726,'Khammam',478, 30);
 INSERT INTO Passengers VALUES(4567, 'Ram', 36, 'M',9966667759, 'Vijayawada',348, 40);
-SELECT * FROM Passengers
+SELECT * FROM Passengers;
